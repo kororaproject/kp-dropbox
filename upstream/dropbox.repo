@@ -1,0 +1,6 @@
+[dropbox]
+name=Dropbox
+baseurl=http://linux.dropbox.com/fedora/$releasever/
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-dropbox
+gpgcheck=1
+enabled=0
