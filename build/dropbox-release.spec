@@ -36,5 +36,5 @@ rm -rf $RPM_BUILD_ROOT
 %config(noreplace) /etc/yum.repos.d/dropbox.repo
 
 %changelog
-* Sat Nov 2013 Chris Smart <csmart@kororaproject.org> - 1.0-1
+* Sat Nov 9 2013 Chris Smart <csmart@kororaproject.org> - 1.0-1
 - Initial package.
